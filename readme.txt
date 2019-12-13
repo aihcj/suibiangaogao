@@ -4,4 +4,5 @@ Git tracks changes of files.
 new branch test add.
 add new line.
 add new line2.
+merge test.
 
